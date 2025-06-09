@@ -1,0 +1,17 @@
+{
+    "country abbreviation": "US",
+    "places": [
+        {
+            "place name": "Velmond",
+            "post code": "02178"
+        },
+        {
+            "place name": "Belmont",
+            "post code": "02478"
+        }
+    ],
+    "country": "United States",
+    "place name": "Belmont",
+    "state": "Massachusetts",
+    "state abbreviation": "MA"
+    }

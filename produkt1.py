@@ -4,7 +4,7 @@ class Produkt:
         self.preis = preis    
 
     def __str__(self):
-        return "Produkt: " + self.name + " kostet" + str(self.preis)
+        return "Produkt: " + self.name + " kostet " + str(self.preis) +" €"
     
 """ banane = Produkt("Banane", 1.99)
 reifen = Produkt("Reifen", 249.99)
